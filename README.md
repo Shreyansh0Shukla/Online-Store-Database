@@ -3,18 +3,18 @@ Developed a full-stack Online Retail Store Database in MySQL featuring automated
 
 # 🛒 Online Retail Store SQL Project
 
-This is a beginner-friendly SQL project built using **MySQL** that simulates the backend database of an online retail store. It includes complete schema design, sample data insertion, automated stock management using triggers, tax and shipping calculations using user-defined functions, and a collection of analytical queries to derive business insights.
+This is a SQL project built using **MySQL** that simulates the backend database of an online retail store. It includes complete schema design, sample data insertion, automated stock management using triggers, tax and shipping calculations using user-defined functions, and a collection of analytical queries to derive business insights.
 
 ---
 
 ## 📂 Project Files
 
-- **`schema.sql`** – Contains all `CREATE TABLE` statements to build the database schema.
-- **`inserts.sql`** – Inserts sample data into tables (customers, products, orders, etc.).
-- **`functions_and_triggers.sql`** – Includes:
+- **`Schema.sql`** – Contains all `CREATE TABLE` statements to build the database schema.
+- **`Inserts.sql`** – Inserts sample data into tables (customers, products, orders, etc.).
+- **`Functions_and_Triggers.sql`** – Includes:
   - Triggers to automatically update stock after orders
   - Functions to calculate tax and shipping cost
-- **`queries.sql`** – Contains various SQL queries for reporting and analysis.
+- **`Queries.sql`** – Contains various SQL queries for reporting and analysis.
 
 ---
 
