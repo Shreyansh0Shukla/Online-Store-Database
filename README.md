@@ -51,10 +51,10 @@ The project consists of five main entities:
 
 
 ## In MySQL Workbench or CLI, execute the following scripts in order:
-1.SOURCE Schema.sql;
-2.SOURCE Inserts.sql;
-3.SOURCE Functions_and_Triggers.sql;
-4.SOURCE Analytical_queries.sql;
+-SOURCE Schema.sql;
+-SOURCE Inserts.sql;
+-SOURCE Functions_and_Triggers.sql;
+-SOURCE Analytical_queries.sql;
 
 ## Requirements
 -MySQL 8.0 or higher
