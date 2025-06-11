@@ -52,10 +52,10 @@ The project consists of five main entities:
 ---
 
 ## In MySQL Workbench or CLI, execute the following scripts in order:
--SOURCE Schema.sql;
--SOURCE Inserts.sql;
--SOURCE Functions_and_Triggers.sql;
--SOURCE Analytical_queries.sql;
+-SOURCE Schema.sql
+-SOURCE Inserts.sql
+-SOURCE Functions_and_Triggers.sql
+-SOURCE Analytical_queries.sql
 
 ---
 
