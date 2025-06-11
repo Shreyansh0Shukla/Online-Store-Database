@@ -52,25 +52,27 @@ The project consists of five main entities:
 ---
 
 ## In MySQL Workbench or CLI, execute the following scripts in order:
+```
 -SOURCE Schema.sql
 -SOURCE Inserts.sql
 -SOURCE Functions_and_Triggers.sql
 -SOURCE Analytical_queries.sql
-
+```
 ---
 
 ## Requirements
-
+```
 -MySQL 8.0 or higher
 -Basic knowledge of SQL
+```
 
 ---
 
 ## About
-
-About
+```
 Created by Shreyansh Shukla
 Feel free to fork, star, and contribute!
+```
 
 ---
 ## Lisence
