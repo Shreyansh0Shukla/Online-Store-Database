@@ -46,9 +46,10 @@ The project consists of five main entities:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/online-retail-sql-project.git
+   git clone (https://github.com/Shreyansh0Shukla/Online-Store-Database)
    cd online-retail-sql-project
 
+---
 
 ## In MySQL Workbench or CLI, execute the following scripts in order:
 -SOURCE Schema.sql;
@@ -56,14 +57,24 @@ The project consists of five main entities:
 -SOURCE Functions_and_Triggers.sql;
 -SOURCE Analytical_queries.sql;
 
+---
+
 ## Requirements
+
 -MySQL 8.0 or higher
 -Basic knowledge of SQL
 
+---
+
 ## About
+
 About
 Created by Shreyansh Shukla
 Feel free to fork, star, and contribute!
 
+---
 ## Lisence
+
 This is an open source project
+
+---
